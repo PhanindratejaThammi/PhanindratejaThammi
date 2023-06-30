@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phanindrateja Thammi</h1>
 <h3 align="center">A Mechanical Engineering Professional with 2 years of experience in designing, developing and testing various types of vehicles and robotics systems. I'm Currently pursuing Masters in Mechanical Engineering at TEXAS A&M University. I'm passionate and actively involved in developing innovative solutions to real-world problems using robotics technology with a strong background in mechanical engineering and a passion for innovation</h3>
-<img align="center" alt="Coding" width="512" src="https://github.com/PhanindratejaThammi/PhanindratejaThammi/assets/133595608/6588caad-1539-47d5-8d69-213d2bcb880e"></img>
+    <img align="center" alt="Coding" width="512" src="https://github.com/PhanindratejaThammi/PhanindratejaThammi/assets/133595608/6588caad-1539-47d5-8d69-213d2bcb880e"></img>
 
 - 🌱 I’m currently learning **ROS, GAZEBO, OpenCV, Smart Contracts**
 
